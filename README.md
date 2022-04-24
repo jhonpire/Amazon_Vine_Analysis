@@ -1,4 +1,4 @@
-# Challenge Expanded Instructions
+# Project Overview
 
 The purpose of this project is to perform the process of ETL "Extract Transform and Load" to generate an analysis of the reviews received on a specific set of products on Amazon's website. The tools intended for this project are PySpark, Postgresql and AWS RDS server, making possible handling a large dataset at higher efficientcy than on a local computer.
 
