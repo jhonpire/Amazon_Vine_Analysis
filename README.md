@@ -35,4 +35,6 @@ The purpose of this project is to perform the process of ETL "Extract Transform 
 
  We recommend performing a similar analysis, by either changing the filtering to a lower count of stars or a different data set that wouldn't be as vulnerable to such filtering.
 
+ 
+
 
